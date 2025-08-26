@@ -15,3 +15,6 @@ int main(int argc, char **argv) {
   printf("My major is Computer Engineering!\n");
 
 }
+
+/*repo url: https://github.com/Akira-Kiba-Nova/hello
+*/
